@@ -1,2 +1,2 @@
-#!iiii/bash
+#!/bin/bash
 cd -
